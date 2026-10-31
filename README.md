@@ -1,2 +1,4 @@
 // TEAM INTRODUCTION VIDEO
 YOUTUBE: https://youtu.be/e7sqMaLe890
+// PROPOSED SOLUTION VIDEO
+ YOUTUBE : https://youtu.be/2JuWyP-05SY
